@@ -1,0 +1,6 @@
+{
+  "name": "MedInsure Analytics",
+  "description": "Medical Insurance Intelligence & Claims Analytics platform for monitoring claims performance, member risk, provider activity, and financial metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
